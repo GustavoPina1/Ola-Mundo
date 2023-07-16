@@ -1,5 +1,5 @@
 # Olá, Mundo
 
- Primeiro repositório versionado do curso git e github
+ Primeiro repositório versionado do curso **git e github**
  
- Linha adicionada diretamente no site
+ Linha adicionada diretamente no *site*
